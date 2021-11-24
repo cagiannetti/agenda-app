@@ -11,7 +11,7 @@
 
 <div class="contenedor">
 
-	<h1>Mis Contactos</h1>
+	<h1>Mis Contactos - Reformado</h1>
 	
 	<nav>
 		<ul>
